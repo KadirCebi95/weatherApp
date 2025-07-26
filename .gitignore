@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# .env dosyası (gizli bilgiler)
+.env
+
+# build klasörü (vite/dist çıktısı)
+dist/
+
+# IDE / sistem dosyaları
+.vscode/
+.DS_Store
