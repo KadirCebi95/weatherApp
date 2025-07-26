@@ -2,7 +2,6 @@
 
 React.js + Tailwind CSS ile geliştirilen, OpenWeather API kullanan modern bir hava durumu uygulaması.
 
-![weather-app-banner](https://user-images.githubusercontent.com/your-image-url.jpg)
 
 ## 🚀 Özellikler
 
